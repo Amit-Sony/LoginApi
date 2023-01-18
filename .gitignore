@@ -1,0 +1,8 @@
+#Dependencies
+/node_modules
+
+#config file
+/.env
+
+#local vscode setup
+/.vscode
